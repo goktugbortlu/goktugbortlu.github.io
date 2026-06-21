@@ -1,16 +1,19 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I currently work at Selçuk University, Turkey, as a research assistant. I regularly take bad photos wherever I go and have this self-appointed goal of contributing to Turkish phonology by occasionally writing in Turkish.
+<img src="/images/IMG_2469.jpeg" alt="Gece the cat" width="280" align="right" style="margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
 
-I was awarded the Fulbright FLTA scholarship in 2021 and worked at Syracuse University for about a year.
+## HI, I'M GÖKTUĞ [ɟøctʰuː]
 
-I am one of the organizers of the EGG Summer School.
+I am a linguist. My research focuses on theoretical phonology, specifically how phonological knowledge is instantiated in the human mind. I am also very much interested in the workings of the phonology-phonetics interface.
 
-I also do dubbing, subtitling, or book translation if I feel like it.
+### And this is Gece [ɟedʒe]
+...blending into the dark. Her name means "night" in Turkish, and she carries that name very well, I guess.
+
+<div style="clear: both;"></div>
