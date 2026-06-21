@@ -14,7 +14,7 @@ title                    : "Göktuğ Börtlü"
 title_separator          : "-"
 name                     : &name "Göktuğ Börtlü"
 description              : &description "Göktuğ Börtlü's academic portfolio"   
-url                      : "https://YOUR_GITHUB_USERNAME.github.io" # Replace with your actual GitHub username
+url                      : "https://goktugbortlu.github.io" 
 baseurl                  : "" 
 repository               : "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io" # Replace with your actual GitHub username
 
