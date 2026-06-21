@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /egg/
-author_profile: true
+author_profile: false
 ---
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
