@@ -24,7 +24,7 @@ author_profile: false
 ## Talks
 
 * **Börtlü, G.** (2026, July 1-3). *Phonological sonorant z in Turkish*. 23èmes Rencontres du Réseau Français de Phonologie (RFP), Paris, France. [[abstract](/files/bortlu_RFP2026.pdf)]
-* **Börtlü, G.**, Cyran, E., & Scheer, T. (2026, January 14-16). *Minimal word constraint in Turkish final devoicing*. The 23rd Old World Conference in Phonology (OCP23), Gonville & Caius College, Cambridge, UK. [[abstract](#)]
+* **Börtlü, G.**, Cyran, E., & Scheer, T. (2026, January 14-16). *Minimal word constraint in Turkish final devoicing*. The 23rd Old World Conference in Phonology (OCP23), Gonville & Caius College, Cambridge, UK. [[abstract](/files/bortlu-cyran-scheer_OCP23.pdf)]
 * **Börtlü, G.**, & Baturay Meral, S. (2025, September 4-6). *Vowel (dis)harmony and consonantal influence in Turkish: Revisiting I-spreading*. 22nd International Conference on Turkish Linguistics (ICTL22), İzmir, Turkey. [[abstract](#)]
 * **Börtlü, G.**, Scheer, T., & Cyran, E. (2025, July 4-5). *Minimal word constraint in Turkish final devoicing*. Approaches to Phonology and Phonetics (APAP 2025), Lublin, Poland. [[abstract](#)]
 * **Börtlü, G.**, Cyran, E., & Scheer, T. (2025, July 1-3). *Minimal word constraint in Turkish final devoicing*. 22èmes Rencontres du Réseau Français de Phonologie (RFP), Agadir, Morocco. [[abstract](#)]
