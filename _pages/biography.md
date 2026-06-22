@@ -53,4 +53,3 @@ author_profile: false
   </div>
 
 </div>
-</div>
