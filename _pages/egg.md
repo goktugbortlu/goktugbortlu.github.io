@@ -19,8 +19,6 @@ Find the timetable <a href="https://docs.google.com/spreadsheets/d/17YBT6E2Ag_WZ
 
 For more information visit [eggschool.org](http://eggschool.org).
 
-Follow the socials: 
-
 </div>
 
 <div style="width: 45%; min-width: 250px;" markdown="1">
