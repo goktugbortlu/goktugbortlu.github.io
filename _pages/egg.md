@@ -9,7 +9,7 @@ author_profile: false
 
 <div style="width: 45%; min-width: 250px; margin-bottom: 20px;" markdown="1">
 
-**EGG 2026 in Brno!**
+<p style="margin-top: 0;"><strong>EGG 2026 in Brno!</strong></p>
 
 In 2026, the EGG will be held in the wonderful city of Brno (Czechia).
 
@@ -25,7 +25,7 @@ Follow the socials:
 
 <div style="width: 45%; min-width: 250px;" markdown="1">
 
-### Phonology
+<h3 style="margin-top: 0;">Phonology</h3>
 * Mohamed Lahrouchi (Université Paris 8)
 * Björn Köhnlein (Ohio State)
 * Marjorie Leduc (Rutgers)
