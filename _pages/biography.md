@@ -68,3 +68,18 @@ author_profile: false
   </div>
 
 </div>
+
+<!-- Fourth Two-Photo Gallery Row -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 30px; align-items: start;">
+
+  <div>
+    <img src="/images/IMG_20190331_090536.jpg" alt="Cats in Istanbul" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 10px; line-height: 1.4;">An alley owned by cats in Istanbul.</p>
+  </div>
+
+  <div>
+    <img src="/images/IMG_1780.jpeg" alt="Côte d'Azur in Nice" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 10px; line-height: 1.4;">Côte d'Azur, Nice</p>
+  </div>
+
+</div>
