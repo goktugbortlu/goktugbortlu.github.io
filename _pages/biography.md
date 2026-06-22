@@ -2,7 +2,7 @@
 layout: single
 title: ""
 permalink: /biography/
-author_profile: true
+author_profile: false
 ---
 
 I currently work at Selçuk University, Turkey, as a research assistant.
