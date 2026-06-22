@@ -23,3 +23,19 @@ author_profile: true
 </div>
 
 <hr style="margin: 40px 0; border-top: 1px solid #ddd;">
+<!-- Two-Photo Gallery Row with Captions -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 30px; align-items: start;">
+
+  <!-- Left Photo & Caption -->
+  <div>
+    <img src="/images/1630591389071.jpg" alt="Syracuse scenery" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 10px; line-height: 1.4;">The regular scenery in front of my house back in Syracuse, NY.</p>
+  </div>
+
+  <!-- Right Photo & Caption -->
+  <div>
+    <img src="/images/IMG_2266.jpeg" alt="Ljubljana restaurant message" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 10px; line-height: 1.4;">A kind message from a restaurant in Ljubljana.</p>
+  </div>
+
+</div>
