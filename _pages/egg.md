@@ -11,7 +11,7 @@ author_profile: false
 
 <p style="margin-top: 0;"><strong>EGG 2026 in Brno!</strong></p>
 
-In 2026, the EGG will be held in the wonderful city of Brno (Czechia).
+In 2026, the Eastern Generative Grammar summer school will be held in the wonderful city of Brno (Czechia).
 
 The school will take place from July 27th to August 7th.
 
