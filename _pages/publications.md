@@ -8,7 +8,7 @@ author_profile: false
 ## Journal articles
 
 * **Börtlü, G.**, Scheer, T., & Cyran, E. (in prep). Final devoicing in Turkish. (SSCI)
-* **Börtlü, G.**, & Baturay-Meral, S. (in prep). I-spreading. (SSCI)
+* **Börtlü, G.**, & Baturay-Meral, S. (submitted). I-spreading. (SSCI)
 * **Börtlü, G.**, & Scheer, T. (submitted). Soft g in Turkish. (SSCI)
 * **Börtlü, G.**, & Uzun, İ. P. (2025). Türkçede ünlü uzunluğunun Katı ZÜ kuramı çerçevesinde çözümlemesi [An analysis of vowel length in Turkish within the framework of Strict CV theory]. *Türk Dili ve Edebiyatı Dergisi/Journal of Turkish Language and Literature*, *65*(2), 324-336. (ESCI) [[link](https://dergipark.org.tr/tr/download/article-file/4412072)]
 * **Börtlü, G.** (2024). Hangi sesbilim? [Which phonology?]. *Mersin Üniversitesi Dil ve Edebiyat Dergisi*, *20*(2), 91-104. (MLA) [[link](https://dergipark.org.tr/en/download/article-file/3539068)]
